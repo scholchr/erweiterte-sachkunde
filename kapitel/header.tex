@@ -1,0 +1,73 @@
+%!TEX root = ../scratchbook.tex
+\documentclass[
+        pdftex,                         % PDF Document
+        paper=a4,
+        %draft,                         % Draft, shows hbox inline-errors
+        bibliography=totoc,             % Bibliography should apper in TOC
+        parskip,                        % No space after section
+        fontsize=12pt,
+        headings=small,
+        chapterprefix                   % Add the word "Chapter" to every chapter
+        ]{scrreprt}
+
+\usepackage[ngerman]{babel}             % german hyphenation
+\usepackage[utf8x]{inputenc}            % Sourcecode encoding
+\usepackage[T1]{fontenc}                % Output encoding
+\usepackage{makeidx}                    % Indexing
+\bibliographystyle{alpha}
+
+\usepackage{graphicx}                   % Embed graphics
+\usepackage[right]{eurosym}             % Right-aligned Euro symbol
+\usepackage{color}                      % Coloured PDF
+\usepackage{bera}                       % Font: bera, tgtermes, tgpagella
+\usepackage{arevmath}                   % arev Font for mathematics, fits bera font
+\usepackage{microtype}                  % Increases pdfTeX readability, decreases hbox warnings
+\usepackage{tikz}                       %
+\usepackage{scrhack}                    % Used to suppress scrreport's float@addtolists warnings for listings
+
+\usepackage{enumitem}
+\setlist{noitemsep}
+
+%Mathematik Tools
+\usepackage{amsmath, amsthm, amssymb}
+\usepackage{mathtools}
+
+\setkomafont{sectioning}{\normalfont\bfseries}
+\setkomafont{captionlabel}{\normalfont\bfseries}
+\setkomafont{pagehead}{\normalfont\itshape}
+\setkomafont{descriptionlabel}{\normalfont\bfseries}
+
+\hbadness=5000              % Increased hbox badness
+\pagestyle{headings}        % Headings with pagenumber and subsections
+
+\newcommand{\code}[2]{
+    \hrulefill
+    \subsection*{#1}
+    \lstinputlisting{#2}
+    \vspace{2em}
+}
+
+\usepackage[
+    pdftitle={Erweiterte Sachkunde Skript},
+    pdfauthor={Christian Scholten},
+    pdfsubject={Subject},
+    pdfcreator={TexLive 2014, komascript},
+    pdfkeywords={here are some keywords},
+    pdfpagemode=UseOutlines,
+    pdfstartpage=1,
+    pdfdisplaydoctitle=true,% Display document title instead of filename.
+    pdflang=en,
+]{hyperref}
+
+\definecolor{LinkColor}{rgb}{0,0,0.5}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=LinkColor,
+    citecolor=LinkColor,
+    filecolor=LinkColor,
+    menucolor=LinkColor,
+    urlcolor=LinkColor,
+    bookmarksnumbered=false
+}
+
+\makeindex
