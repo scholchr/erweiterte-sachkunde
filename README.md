@@ -1,7 +1,7 @@
 Erweiterte Sachkunde
 ===========
 
-Download-Link
+[PDF Datei downloaden](https://github.com/scholchr/erweiterte-sachkunde/blob/master/erweiterte_sachkunde.pdf?raw=true)
 
 
 To Do:
