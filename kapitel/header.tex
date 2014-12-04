@@ -25,8 +25,8 @@
 \usepackage{tikz}                       %
 \usepackage{scrhack}                    % Used to suppress scrreport's float@addtolists warnings for listings
 
-\usepackage{enumitem}
-\setlist{noitemsep}
+\usepackage{enumitem}                   % configure enum/item preferences
+\setlist{noitemsep}                     % disable space between items
 
 %Mathematik Tools
 \usepackage{amsmath, amsthm, amssymb}
@@ -48,8 +48,7 @@
 }
 
 \usepackage[
-    pdftitle={Erweiterte Sachkunde Skript},
-    pdfauthor={Christian Scholten},
+    pdfusetitle=true, % obtain \title and \author for PDF document information
     pdfsubject={Subject},
     pdfcreator={TexLive 2014, komascript},
     pdfkeywords={here are some keywords},
