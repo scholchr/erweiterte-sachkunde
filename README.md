@@ -12,4 +12,4 @@ To Do:
 * Recht
 * Verhalten bei Hunden
 * richtig Füttern
-* Erste Hilde
+* Erste Hilfe
