@@ -8,7 +8,7 @@ Letze Aktualisierung: 8.12. 16:30
 To Do:
 ------
 * ~~Hundeverhalten~~
-* Anatomie, Pysiologie, Krankheiten, Impfungen
+* Anatomie, Physiologie, Krankheiten, Impfungen
 * Recht
 * Verhalten bei Hunden
 * richtig Füttern
