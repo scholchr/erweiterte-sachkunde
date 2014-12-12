@@ -9,7 +9,7 @@ Nächste Update (Füttern & Erste Hilfe): 12.12.
 
 To Do:
 ------
-* ~~Hundeverhalten 1 + 2 ~~
+* ~~Hundeverhalten 1 + 2~~
 * ~~Anatomie, Physiologie, Krankheiten, Impfungen~~
 * ~~Recht~~
 * ~~Hundeverhalten 3~~
