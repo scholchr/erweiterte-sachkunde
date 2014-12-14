@@ -3,7 +3,7 @@ Erweiterte Sachkunde
 
 [PDF Datei downloaden](https://github.com/scholchr/erweiterte-sachkunde/blob/master/erweiterte_sachkunde.pdf?raw=true)
 
-Letztes Update: 14.12. 12:50
+Letztes Update: 14.12. 15:30
 
 Das Dokument ist fehlerhaft oder unvollständig?
 Mailt mir einfach: scholchr /@/ gmail [.] com
@@ -15,4 +15,4 @@ To Do:
 - [x] Recht
 - [x] Hundeverhalten 3
 - [x] Hundeernährung
-- [x] Erste Hilfe (noch in Arbeit)
+- [x] Erste Hilfe
