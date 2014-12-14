@@ -15,4 +15,4 @@ To Do:
 - [x] Recht
 - [x] Hundeverhalten 3
 - [x] Hundeernährung
-- [ ] Erste Hilfe
+- [x] Erste Hilfe (noch in Arbeit)
