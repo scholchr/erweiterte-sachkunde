@@ -3,7 +3,7 @@ Erweiterte Sachkunde
 
 [PDF Datei downloaden](https://github.com/scholchr/erweiterte-sachkunde/blob/master/erweiterte_sachkunde.pdf?raw=true)
 
-Letztes Update: 13.12. 9:00
+Letztes Update: 14.12. 12:50
 
 Das Dokument ist fehlerhaft oder unvollständig?
 Mailt mir einfach: scholchr /@/ gmail [.] com
