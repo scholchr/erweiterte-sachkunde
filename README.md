@@ -8,6 +8,8 @@ Letztes Update: 14.12. 15:30
 Das Dokument ist fehlerhaft oder unvollständig?
 Mailt mir einfach: scholchr /@/ gmail [.] com
 
+Hinweis: Ein paar kleine Fehler(Buchstabendreher etc.) sind noch enthalten und werden noch korregiert.
+
 To Do:
 ------
 - [x] Hundeverhalten 1 + 2
